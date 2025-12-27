@@ -8,3 +8,4 @@ div=a/b
 print("Addition:",add)
 print("substraction:",sub)
 print("Multiplication:",mul)
+print("Division:",div)
